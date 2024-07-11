@@ -7,7 +7,8 @@ function App() {
     <>
    <div className="relative w-full h-screen bg-zinc-800">
       <Background/>
-      <Foreground/>  
+      <Foreground/> 
+       
       </div>
     </>
   )
