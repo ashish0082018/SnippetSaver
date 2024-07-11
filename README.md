@@ -1,8 +1,11 @@
-# React + Vite
+Project Name: CodeNest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:
 
-Currently, two official plugins are available:
+CodeNest is a user-friendly web application designed to streamline the process of managing code snippets. With CodeNest, users can effortlessly add, save, and edit their code snippets, ensuring that their valuable coding insights are always organized and easily accessible. Whether you're a developer looking to store reusable code blocks or a student compiling study notes, CodeNest provides a simple yet powerful solution to keep your code snippets at your fingertips.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Key Features:
+
+Add and save code snippets with ease.
+Edit existing snippets to keep your code up-to-date.
+Organized storage for quick retrieval and efficient workflow.
