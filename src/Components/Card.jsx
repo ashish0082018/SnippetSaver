@@ -14,7 +14,7 @@ function Card({data ,reference}) {
     <p className='text-sm leading-tight mt-2 font-semibold' >{data.descr}</p>
     <div className='footer  w-full h-12 bottom-0 absolute left-0 bg-blue-800 '>
         <div className='flex justify-between items-center px-5 mt-2'>
-            <h5 className='font-semibold bg-zinc-700 rounded-sm px-2 '>Edit</h5>
+            <h5 className='font-semibold bg-zinc-100 rounded-sm px-2 '>Edit</h5>
            <span className="bg-zinc-700 rounded-sm font-semibold px-2">
             {/* {data.close ? <IoCloseOutline/> : <LuDownload size="0.7em" color='#fff'/> } */}
             save
