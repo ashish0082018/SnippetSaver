@@ -7,5 +7,8 @@ CodeNest is a user-friendly web application designed to streamline the process o
 Key Features:
 
 Add and save code snippets with ease.
-Edit existing snippets to keep your code up-to-date.
-Organized storage for quick retrieval and efficient workflow.
+  <li>  Edit existing snippets to keep your code up-to-date.  </li>
+  <li> Organized storage for quick retrieval and efficient workflow.   </li>
+
+ 
+
