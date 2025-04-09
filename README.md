@@ -8,4 +8,4 @@ Key Features:
 
 Add and save code snippets with ease.
 Edit existing snippets to keep your code up-to-date.
-Organized storage for quick retrieval and efficient workflow
+Organized storage for quick retrieval and efficient workflow.
