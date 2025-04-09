@@ -21,8 +21,7 @@ function Card({data ,reference}) {
              </span> 
             
         </div>
-        {/* {data.tag.isOpen? <div className={`tag w-full h-20 bg-${data.tag.tagColor}-600 flex items-top justify-center`}>
-            <h3 className='text-md'> {data.tag.tagTitle}</h3>  </div>: null} */}
+
         
     </div>
     </motion.div>
